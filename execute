@@ -1,0 +1,29 @@
+<main>
+    <section>
+        <h2>Bem-vindo à Snowbux!</h2>
+        <p>Sua loja online para comprar Robux, a moeda virtual do Roblox.</p>
+        <p>Obtenha Robux e desbloqueie recursos incríveis em seus jogos favoritos.</p>
+    </section>
+
+    <section>
+        <h2>Nossos Pacotes de Robux</h2>
+        <!-- Aqui você pode listar diferentes pacotes de Robux -->
+        <div class="package">
+            <img src="robux-package-1.jpg" alt="Pacote de Robux 1">
+            <h3>Pacote de Robux 1</h3>
+            <p>Obtenha 1.000 Robux por apenas R$ 10,00.</p>
+            <button>Comprar Agora</button>
+        </div>
+
+        <div class="package">
+            <img src="robux-package-2.jpg" alt="Pacote de Robux 2">
+            <h3>Pacote de Robux 2</h3>
+            <p>Obtenha 5.000 Robux por apenas R$ 45,00.</p>
+            <button>Comprar Agora</button>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2023 Snowbux - Sua Loja de Robux. Todos os direitos reservados.</p>
+</footer>
